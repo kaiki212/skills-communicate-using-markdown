@@ -7,3 +7,7 @@ var first = 1;
 var second = 2;
 var sum = first + second;
 ```
+¿Que aprendi?
+- [x] El proposito de markdown
+- [x] Como crear un documento con markdown
+- [ ] Todo acerca de markdown
